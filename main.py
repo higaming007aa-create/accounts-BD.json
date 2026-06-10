@@ -1,7 +1,6 @@
 import requests, os, sys, jwt, json, binascii, time, urllib3, xKEys, base64, datetime, re, socket, threading
 import asyncio
 from protobuf_decoder.protobuf_decoder import Parser
-from byte import *
 from byte import xSEndMsg
 from byte import Auth_Chat
 from xHeaders import *
