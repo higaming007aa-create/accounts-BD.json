@@ -7,4 +7,3 @@ urllib3
 protobuf-decoder
 pycryptodome
 telebot
-byte
