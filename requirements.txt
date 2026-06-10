@@ -1,3 +1,4 @@
+byte
 requests
 pyjwt
 protobuf==5.27.2
